@@ -1,27 +1,17 @@
 # MiragejsCrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Projeto feito em Angular na versão 14.1.0.
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Execute `ng serve` um servidor dev. Navegue para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Code scaffolding
+## API FAKE Miragejs
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto se resume a inclusão de uma Api fake para facilitar e ampliar a qualidade técnica do FRONTEND. Com essa Api fake, é possível aplicar todos os métodos do CRUD: Create/Read/Update/Delete.
 
-## Build
+Acesse o diretório src/app/services/apiMock.service.ts para mais detalhes.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Biblioteca utilizada no projeto `https://github.com/miragejs/miragejs`.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+A inclusão dessa tecnologia pode facilizar o desenvolvimento sem precisar ficar preso ao time de BACKEND, pode também, ajudar na criação e aplicação de testes automatizados, entre outras melhorias.
