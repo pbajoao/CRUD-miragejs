@@ -14,4 +14,4 @@ Acesse o diretório src/app/services/apiMock.service.ts para mais detalhes.
 
 Biblioteca utilizada no projeto `https://github.com/miragejs/miragejs`.
 
-A inclusão dessa tecnologia pode facilizar o desenvolvimento sem precisar ficar preso ao time de BACKEND, pode também, ajudar na criação e aplicação de testes automatizados, entre outras melhorias.
+A inclusão dessa tecnologia pode facilitar o desenvolvimento sem precisar ficar preso ao time de BACKEND, pode também, ajudar na criação e aplicação de testes automatizados.
